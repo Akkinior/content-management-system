@@ -12,15 +12,7 @@
 <nav>
     <ul>
         <li><a href="/admin">Home</a></li>
-        {{--<li class="dropdown">
-            <a href="#">Skibidi</a>
-             <ul class="dropdown-menu">
-                <li><a href="/skibidi/test">Test</a></li>
-                <li><a href="/skibidi/options">Options</a></li>
-            </ul>
-        </li>--}}
         <li><a href="/users">User Management</a></li>
-        <li><a href="/pages">Page Management</a></li>
         <li><a href="/services">Services Management</a></li>
         <li><a href="/cards">Card Management</a></li>
         <li><a href="/steps">Steps Management</a></li>
